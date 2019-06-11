@@ -20,6 +20,6 @@ Be creative! Find a dataset that is inspiring to you and find a way to inspire o
 
 | Section | Mark | 
 |---|---| 
-| Total/100% | 20% | 
+| Total/100% | 50% | 
 
 Only a little effort was made since there is a single graph, no text describing anything and unfinished code towards the end of the notebook.
